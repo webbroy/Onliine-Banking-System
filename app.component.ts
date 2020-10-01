@@ -8,10 +8,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   title = 'sprint-project';
+  
 
 
   checkLoginDetails(){
-    
+    console.log(title);
   }
  
   
