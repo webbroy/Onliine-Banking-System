@@ -12,7 +12,7 @@ export class AppComponent  {
 
 
   checkLoginDetails(){
-    console.log(title);
+    console.log("logged in");
   }
  
   
